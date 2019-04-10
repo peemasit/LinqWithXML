@@ -1,0 +1,7 @@
+C:\Users\peema\source\repos\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe.config
+C:\Users\peema\source\repos\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe
+C:\Users\peema\source\repos\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.pdb
+C:\Users\peema\source\repos\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csprojAssemblyReference.cache
+C:\Users\peema\source\repos\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csproj.CoreCompileInputs.cache
+C:\Users\peema\source\repos\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.exe
+C:\Users\peema\source\repos\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.pdb
